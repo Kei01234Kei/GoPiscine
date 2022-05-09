@@ -31,6 +31,10 @@ func PrintComb() {
 				if err != nil {
 					return
 				}
+				err = ft.PrintRune(' ')
+				if err != nil {
+					return
+				}
 			}
 		}
 	}
