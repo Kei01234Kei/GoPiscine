@@ -56,6 +56,11 @@ func PrintComb2() {
 				if err != nil {
 					return
 				}
+			} else {
+				err := ft.PrintRune('\n')
+				if err != nil {
+					return
+				}
 			}
 		}
 	}

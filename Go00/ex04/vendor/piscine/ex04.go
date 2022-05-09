@@ -25,6 +25,10 @@ func PrintComb() {
 					return
 				}
 				if i == 7 && j == 8 && k == 9 {
+					err := ft.PrintRune('\n')
+					if err != nil {
+						return
+					}
 					return
 				}
 				err = ft.PrintRune(',')
