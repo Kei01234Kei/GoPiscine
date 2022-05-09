@@ -1,7 +1,11 @@
 package piscine
 
-import "fmt"
+import (
+	"ft"
+)
 
 func PrintStr(s string) {
-	fmt.Print(s)
+	for _, c := range s {
+		ft.PrintRune(rune(c))
+	}
 }
