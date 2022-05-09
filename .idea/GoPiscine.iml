@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/Go00/ex03/vendor/piscine" />
     <content url="file://$MODULE_DIR$/Go00/ex04/vendor/piscine" />
+    <content url="file://$MODULE_DIR$/Go00/ex05/vendor/piscine" />
+    <content url="file://$MODULE_DIR$/Go00/ex06/vendor/piscine" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
