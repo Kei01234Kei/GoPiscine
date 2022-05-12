@@ -1,8 +1,6 @@
 package piscine
 
-import (
-	"ft"
-)
+import "ft"
 
 func PrintStr(s string) {
 	for _, c := range s {
